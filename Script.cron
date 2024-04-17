@@ -1,0 +1,1 @@
+* * * * * echo "$(date) - Hourly log message" >> /home/eddy/makinates/cronjob-task/show.log
